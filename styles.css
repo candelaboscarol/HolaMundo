@@ -1,0 +1,21 @@
+body { 
+    margin: 0;     
+    padding: 0;  
+}
+
+.container { 
+  display: flex;
+  height: 100vh;
+  }
+
+  .container-left { 
+      width: 20%;
+      background-color: white;
+      padding: 1rem;
+  }
+
+  .container-right { 
+      width: 100%;
+      background-color: antiquewhite;
+      padding: 1rem;
+  }
